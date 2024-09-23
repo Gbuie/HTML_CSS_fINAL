@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+}
+
+#shirt{
+    display: flex;
+justify-content: space-around;
+}
+
+#products{
+    width: 30vw;
+}
+
+#hat{
+    display: flex;
+}
